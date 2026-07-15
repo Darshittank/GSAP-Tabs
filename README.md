@@ -10,8 +10,8 @@
 👉 **[View GSAP-Tabs Now!](https://darshittank.github.io/GSAP-Tabs/)** 👈
 
 ## 🗺️ Roadmap.sh Solution
-👉 **[View My Tabs Solution](https://roadmap.sh/projects/tooltip-ui/solutions?u=6a54aaccace5f057736e8164)** 👈
-https://roadmap.sh/projects/simple-tabs
+👉 **[View My Tabs Solution]([https://roadmap.sh/projects/tooltip-ui/solutions?u=6a54aaccace5f057736e8164](https://roadmap.sh/projects/simple-tabs))** 👈
+
 
 ## 📌 Project Page
 👉 **[Tabs Project](https://roadmap.sh/projects/Tabs)** 👈
