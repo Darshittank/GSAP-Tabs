@@ -14,7 +14,7 @@
 
 
 ## 📌 Project Page
-👉 **[Tabs Project](https://roadmap.sh/projects/Tabs)** 👈
+👉 **[Tabs Project](https://roadmap.sh/projects/simple-tabs)** 👈
 
 ## 📖 **About GSAP-Tabs**
 
