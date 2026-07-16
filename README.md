@@ -30,7 +30,7 @@ A modern, responsive tabs component built with GSAP (GreenSock Animation Platfor
 
 ## 📸 Preview
 
-![screenshot-tooltip](assets/screenshot-gsap-tabs.png)
+![screenshot-tooltip](assets/screenshot-tabs.png)
 
 📦 Use Cases
 - Websites & blogs
